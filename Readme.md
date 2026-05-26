@@ -19,8 +19,6 @@ It is meant for amateur radio operators who want quick AOS/LOS and pointing info
 - Output is formatted to fit within the TI-99/4A’s text screen.
 - Runs on **real hardware** or on emulators such as [Classic99](https://www.harmlesslion.com/software/classic99) or js99er.net.
 
-![SatPass Screenshot](SatPass_Calculating.png)
-
 -----
 
 ## Requirements
@@ -100,6 +98,8 @@ ISS (ZARYA)
 
 
 > **Note:** A TLE’s eccentricity has an implied leading decimal point. `0006703` means `0.0006703`.
+
+![SatPass Screenshot](SatPass_Calculating.png)
 
 -----
 
