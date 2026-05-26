@@ -4,7 +4,7 @@ A simple satellite pass predictor for the **TI-99/4A** home computer, written in
 
 It is meant for amateur radio operators who want quick AOS/LOS and pointing information on real vintage hardware, without an internet connection or a modern computer.
 
-![SatPass Screenshot](SatPass Intro.bmp)
+![SatPass Screenshot](SatPass_Intro.png)
 
 -----
 
@@ -19,7 +19,7 @@ It is meant for amateur radio operators who want quick AOS/LOS and pointing info
 - Output is formatted to fit within the TI-99/4A’s text screen.
 - Runs on **real hardware** or on emulators such as [Classic99](https://www.harmlesslion.com/software/classic99) or js99er.net.
 
-![SatPass Screenshot](SatPass Calculating.bmp)
+![SatPass Screenshot](SatPass_Calculating.png)
 
 -----
 
