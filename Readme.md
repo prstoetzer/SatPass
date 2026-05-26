@@ -120,6 +120,8 @@ Columns, left to right: pass number, AOS time (UTC), AOS azimuth, LOS time (UTC)
 
 *(The numbers above are illustrative, produced from the sample TLE; your results depend on your location, time, and elements.)*
 
+![SatPass Screenshot](SatPass_Done.png)
+
 -----
 
 ## Accuracy and Limitations
