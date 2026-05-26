@@ -4,6 +4,8 @@ A simple satellite pass predictor for the **TI-99/4A** home computer, written in
 
 It is meant for amateur radio operators who want quick AOS/LOS and pointing information on real vintage hardware, without an internet connection or a modern computer.
 
+![SatPass Screenshot](SatPass Intro.bmp)
+
 -----
 
 ## Features
@@ -16,6 +18,8 @@ It is meant for amateur radio operators who want quick AOS/LOS and pointing info
 - Takes standard Keplerian elements as published by [AMSAT](https://www.amsat.org/) or derived from a NORAD [TLE](https://en.wikipedia.org/wiki/Two-line_element_set).
 - Output is formatted to fit within the TI-99/4A’s text screen.
 - Runs on **real hardware** or on emulators such as [Classic99](https://www.harmlesslion.com/software/classic99) or js99er.net.
+
+![SatPass Screenshot](SatPass Calculating.bmp)
 
 -----
 
