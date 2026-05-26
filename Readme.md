@@ -1,4 +1,4 @@
-# SATPASS
+# SatPass
 
 A simple satellite pass predictor for the **TI-99/4A** home computer, written in **TI Extended BASIC**. It computes the next several visible passes of a low-Earth-orbit (LEO) satellite — such as the ISS or an amateur-radio bird — from a fixed ground station, using classical Keplerian (two-body) orbital mechanics.
 
@@ -30,7 +30,7 @@ No peripherals are required — the program uses only the console keyboard and s
 
 ## Getting and Running the Program
 
-1. Load `SATPASS_XB.bas` into Extended BASIC. On an emulator you can usually paste or “load from disk”; on real hardware, type it in or load it from your storage device.
+1. Load `SATPASS.xb` into Extended BASIC. On an emulator you can usually paste or “load from disk”; on real hardware, type it in or load it from your storage device.
 1. Type `RUN` and press **ENTER**.
 1. Answer the prompts (see below).
 1. Wait for the calculation to finish, then read the pass table.
@@ -160,20 +160,9 @@ Two values near the top of the search section (around line 710) can be adjusted:
 
 -----
 
-## Files
-
-- `SATPASS_XB.bas` — the TI Extended BASIC program.
-- `README.md` — this file.
-
------
-
 ## Credits
 
-Originally written for **Paul Stoetzer, N8HM**, for satellite operating from an apartment. 73!
+Originally written for **Paul Stoetzer, N8HM**. 73!
 
 Contributions and bug reports are welcome.
 
------
-
-
-No license is specified yet. If you intend to share this publicly, consider adding one (for example, the [MIT License](https://choosealicense.com/licenses/mit/)) so others know how they may use it.
