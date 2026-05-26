@@ -126,7 +126,7 @@ Columns, left to right: pass number, AOS time (UTC), AOS azimuth, LOS time (UTC)
 - A pass already in progress when the search window ends is not printed.
 - Very brief, low-elevation passes (shorter than the coarse scan step) may be missed; see tuning below.
 
-For serious or long-range prediction, use an SGP4-based tool. SATPASS is intended as a lightweight, self-contained predictor for fun and quick planning on period hardware.
+For serious or long-range prediction, use an SGP4-based tool. SatPass is intended as a lightweight, self-contained predictor for fun and quick planning on period hardware.
 
 -----
 
